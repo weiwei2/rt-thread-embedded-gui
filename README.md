@@ -12,7 +12,8 @@ The video below is a machine
 
 
 # References
-[1] https://www.nuvoton.com/products/gui-solution/gui-platform/
-[2] user manual for N9H30 https://www.nuvoton.com/export/resource-files/UM_NuMaker-HMI-N9H30_User_Manual_EN_Rev1.00.pdf
-[3] a video on bilibili for HMI with N9H30 https://www.bilibili.com/video/BV11b4y1C7vw?spm_id_from=333.337.search-card.all.click
+[1] https://www.nuvoton.com/products/gui-solution/gui-platform/ __
+[2] user manual for N9H30 https://www.nuvoton.com/export/resource-files/UM_NuMaker-HMI-N9H30_User_Manual_EN_Rev1.00.pdf __
+[3] a video on bilibili for HMI with N9H30 https://www.bilibili.com/video/BV11b4y1C7vw?spm_id_from=333.337.search-card.all.click __
+[4] https://github.com/OpenNuvoton/MPU-Family __
 
