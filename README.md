@@ -11,5 +11,8 @@ The video below is a machine
 (https://github.com/weiwei2/rt-thread-embedded-gui/blob/main/modbus-tcp-multitester.mp4 "Now in Nuvoton")    // Video Link
 
 
-# About
-The author run Lingkail Sdn Bhd, a company that specialized in Industrial IoT and enterprise software development. i have developed embedded system that includes interface like NFC and BLE
+# References
+[1] https://www.nuvoton.com/products/gui-solution/gui-platform/
+[2] user manual for N9H30 https://www.nuvoton.com/export/resource-files/UM_NuMaker-HMI-N9H30_User_Manual_EN_Rev1.00.pdf
+[3] a video on bilibili for HMI with N9H30 https://www.bilibili.com/video/BV11b4y1C7vw?spm_id_from=333.337.search-card.all.click
+
