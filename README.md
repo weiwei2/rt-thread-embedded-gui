@@ -15,5 +15,6 @@ The video below is a machine
 [1] https://www.nuvoton.com/products/gui-solution/gui-platform/   
 [2] user manual for N9H30 https://www.nuvoton.com/export/resource-files/UM_NuMaker-HMI-N9H30_User_Manual_EN_Rev1.00.pdf   
 [3] a video on bilibili for HMI with N9H30 https://www.bilibili.com/video/BV11b4y1C7vw?spm_id_from=333.337.search-card.all.click   
-[4] https://github.com/OpenNuvoton/MPU-Family __
+[4] https://github.com/OpenNuvoton/MPU-Family  
+[5] LVGL music player demo and RT-Thread RTOS porting for NuMaker-HMI-N9H30 https://github.com/OpenNuvoton/LVGL_NUMAKER-HMI-N9H30
 
